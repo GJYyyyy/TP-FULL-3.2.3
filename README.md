@@ -1,7 +1,11 @@
 ﻿## Composer
 
 添加Composer包管理器，可在命令行直接使用
-[Composer完整命令行文档](https://docs.phpcomposer.com/03-cli.html#search)
+*  [Composer完整命令行文档](https://docs.phpcomposer.com/03-cli.html#search)
+*  [Composer包搜索](https://packagist.org/)
+*  添加第三方依赖： composer require 包名
+
+*  [添加自定义自动加载类](https://www.cnblogs.com/yoloyi/p/12109795.html)
 
 ## 简介
 
